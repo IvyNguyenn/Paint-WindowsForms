@@ -1,0 +1,10 @@
+D:\HocTap\Windows_programming\tuan 4\DoAn_Paint\Paint3\Paint3\bin\Debug\Paint3.exe.config
+D:\HocTap\Windows_programming\tuan 4\DoAn_Paint\Paint3\Paint3\bin\Debug\Paint3.exe
+D:\HocTap\Windows_programming\tuan 4\DoAn_Paint\Paint3\Paint3\bin\Debug\Paint3.pdb
+D:\HocTap\Windows_programming\tuan 4\DoAn_Paint\Paint3\Paint3\obj\Debug\Paint3.csprojResolveAssemblyReference.cache
+D:\HocTap\Windows_programming\tuan 4\DoAn_Paint\Paint3\Paint3\obj\Debug\Paint3.Form1.resources
+D:\HocTap\Windows_programming\tuan 4\DoAn_Paint\Paint3\Paint3\obj\Debug\Paint3.Properties.Resources.resources
+D:\HocTap\Windows_programming\tuan 4\DoAn_Paint\Paint3\Paint3\obj\Debug\Paint3.csproj.GenerateResource.cache
+D:\HocTap\Windows_programming\tuan 4\DoAn_Paint\Paint3\Paint3\obj\Debug\Paint3.csproj.CoreCompileInputs.cache
+D:\HocTap\Windows_programming\tuan 4\DoAn_Paint\Paint3\Paint3\obj\Debug\Paint3.exe
+D:\HocTap\Windows_programming\tuan 4\DoAn_Paint\Paint3\Paint3\obj\Debug\Paint3.pdb
